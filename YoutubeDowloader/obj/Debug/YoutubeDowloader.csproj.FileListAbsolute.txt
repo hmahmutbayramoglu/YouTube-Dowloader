@@ -1,0 +1,17 @@
+C:\Users\WIN7\source\repos\YoutubeDowloader\YoutubeDowloader\bin\Debug\YoutubeDowloader.exe.config
+C:\Users\WIN7\source\repos\YoutubeDowloader\YoutubeDowloader\bin\Debug\YoutubeDowloader.exe
+C:\Users\WIN7\source\repos\YoutubeDowloader\YoutubeDowloader\bin\Debug\YoutubeDowloader.pdb
+C:\Users\WIN7\source\repos\YoutubeDowloader\YoutubeDowloader\bin\Debug\libvideo.dll
+C:\Users\WIN7\source\repos\YoutubeDowloader\YoutubeDowloader\bin\Debug\MediaToolkit.dll
+C:\Users\WIN7\source\repos\YoutubeDowloader\YoutubeDowloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WIN7\source\repos\YoutubeDowloader\YoutubeDowloader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WIN7\source\repos\YoutubeDowloader\YoutubeDowloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WIN7\source\repos\YoutubeDowloader\YoutubeDowloader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\WIN7\source\repos\YoutubeDowloader\YoutubeDowloader\obj\Debug\YoutubeDowloader.csprojAssemblyReference.cache
+C:\Users\WIN7\source\repos\YoutubeDowloader\YoutubeDowloader\obj\Debug\YoutubeDowloader.Form1.resources
+C:\Users\WIN7\source\repos\YoutubeDowloader\YoutubeDowloader\obj\Debug\YoutubeDowloader.Properties.Resources.resources
+C:\Users\WIN7\source\repos\YoutubeDowloader\YoutubeDowloader\obj\Debug\YoutubeDowloader.csproj.GenerateResource.cache
+C:\Users\WIN7\source\repos\YoutubeDowloader\YoutubeDowloader\obj\Debug\YoutubeDowloader.csproj.CopyComplete
+C:\Users\WIN7\source\repos\YoutubeDowloader\YoutubeDowloader\obj\Debug\YoutubeDowloader.exe
+C:\Users\WIN7\source\repos\YoutubeDowloader\YoutubeDowloader\obj\Debug\YoutubeDowloader.pdb
+C:\Users\WIN7\source\repos\YoutubeDowloader\YoutubeDowloader\bin\Debug\Bunifu_UI_v1.5.3.dll
